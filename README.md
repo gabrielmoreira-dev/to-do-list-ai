@@ -2,9 +2,15 @@
 
 Este código foi escrito com o auxílio da ferramenta Chat GPT. Para obter este resultado, primeiramente foi adiconada a entrada:
 
-```
+<b>
 Gostaria de obter o código em Flutter de uma funcionalidade de uma tela de lista de tarefas escolares, divididas por disciplina. Nesta tela, o aluno pode cadastrar novas tarefas e visualizar as tarefas existentes. A funcionalidade deve seguir o padrão de arquitetura MVVM, devendo ser forncedios os códigos referentes a todas as camadas do modelo. Os dados devem ser persistidos localmente.
-```
+</b>
+
+## Resultado
+
+Após obter o resultado e seguir os passos sugeridos no Android Studio, foi obtida a seguinte interface:
+
+<img width=250 src="https://github.com/gabrielmoreira-dev/to-do-list-ai/assets/52149023/28046293-7e03-4ecb-be52-10c1fdfce840">
 
 ## Impressões sobre a ferramenta
 
